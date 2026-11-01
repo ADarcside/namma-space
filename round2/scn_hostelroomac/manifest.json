@@ -47,8 +47,8 @@
       "kind": "pois",
       "format": "json",
       "uri": "pois.json",
-      "sha256": "56583cd69f2795f6edb6d1b763feeccf308777f30c0a25a8f6277cc0ab7b6462",
-      "bytes": 3412
+      "sha256": "fe331b2009ec6fb9dfa96b1b26461dddde07fa28b61179192f04ce775fbaf995",
+      "bytes": 3423
     }
   },
   "transform": {
