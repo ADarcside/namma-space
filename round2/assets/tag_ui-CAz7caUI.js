@@ -1,4 +1,4 @@
-import{a as e,f as t,i as n,l as r,m as i,n as a,o,p as s,r as c,s as l,t as u}from"./index-DRvfpRar.js";var d=`.namma-tag-ui-layer {
+import{a as e,f as t,i as n,l as r,m as i,n as a,o,p as s,r as c,s as l,t as u}from"./index-BIz3DrG_.js";var d=`.namma-tag-ui-layer {
   font-family: var(--ns-font);
   color: var(--ns-text);
   pointer-events: none;
