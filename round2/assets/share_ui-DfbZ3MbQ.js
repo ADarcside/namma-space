@@ -1,4 +1,4 @@
-import{D as e,E as t,O as n,t as r}from"./index-CjNreFwJ.js";var i=`namma-share-style`,a=`
+import{D as e,E as t,O as n,t as r}from"./index-YhdIXj7v.js";var i=`namma-share-style`,a=`
 #share-dialog { z-index: 210; font-family: var(--ns-font); color: var(--ns-text); }
 .share-card { max-width: 340px; text-align: center; }
 .share-sub { margin: calc(-1 * var(--ns-space-3)) 0 var(--ns-space-4); color: var(--ns-text-muted); font-size: var(--ns-fs-sm); }
