@@ -1,4 +1,4 @@
-import{D as e,E as t,T as n,a as r}from"./index-kvblviL9.js";import{LAYOUT_LIMITS as i,movedCorners as a}from"./layout-MAa28mGp.js";var o=`/* Rearrange (move furniture): panel with an enlarged floor plan, loaded on demand */
+import{D as e,E as t,T as n,a as r}from"./index-CjNreFwJ.js";import{LAYOUT_LIMITS as i,movedCorners as a}from"./layout-C8KQufuM.js";var o=`/* Rearrange (move furniture): panel with an enlarged floor plan, loaded on demand */
 .rr-layer {
   position: fixed;
   inset: 0;
