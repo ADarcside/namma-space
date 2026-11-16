@@ -1,4 +1,4 @@
-import{t as e}from"./links-Dh7rwv8j.js";import{t}from"./ar-DvcxGsHn.js";import{encode as n}from"./dist-DSGQYYy6.js";var r=`
+import{t as e}from"./links-Dh7rwv8j.js";import{t}from"./ar-RZc9NUcs.js";import{encode as n}from"./dist-DSGQYYy6.js";var r=`
 html, body { overflow: auto !important; height: auto !important; background: #ffffff !important; color: #0a0a0c; user-select: text !important; -webkit-user-select: text !important; }
 .ar-qr-sheet { font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; max-width: 960px; margin: 0 auto; padding: 24px 16px 48px; }
 .ar-qr-sheet h1 { font-size: 24px; margin: 0 0 8px; }

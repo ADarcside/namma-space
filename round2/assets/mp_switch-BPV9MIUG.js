@@ -1,4 +1,4 @@
-import{T as e}from"./preload-helper-Dffiq3BR.js";var t=`namma-mp-switch`,n=`
+import{D as e}from"./preload-helper-D0y89ZOX.js";var t=`namma-mp-switch`,n=`
   .mps-scrim { position: fixed; inset: 0; z-index: 200; display: grid; place-items: center; padding: 16px;
     background: var(--ns-scrim); font-family: var(--ns-font); color: var(--ns-text); }
   .mps-card { width: min(460px, 100%); max-height: calc(100dvh - 32px); overflow: auto; overscroll-behavior: contain; background: var(--ns-surface-strong); border: 1px solid var(--ns-border-strong);
